@@ -14,6 +14,7 @@ Long-time IT Specialist and Business Applications Analyst with experience in ERP
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| API creation using Python
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
