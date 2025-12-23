@@ -25,6 +25,7 @@ Long-time IT Specialist and Business Applications Analyst with experience in ERP
 
 ### Network
 <div>
+    <img src="https://img.shields.io/badge/-SQL-0078D4?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
@@ -46,6 +47,8 @@ Long-time IT Specialist and Business Applications Analyst with experience in ERP
 
 ### Cloud
 <div>
+    <img src="https://img.shields.io/badge/-ServiceNow-0078D4?style=for-the-badge&logo=ServiceNow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Salesforce-0078D4?style=for-the-badge&logo=Salesforce&logoColor=white" />
     <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Azure-Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
