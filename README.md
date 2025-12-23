@@ -1,16 +1,14 @@
 # Hello, I'm Shani Silver (nickname: Shawn)
 <a href="https://linkedin.com/in/shanisilver/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a long time IT Specialist and Business Applications Analyst with profound interest in Cyber Security, AI, and a dedication to solving complex problems. Experienced in analyzing, implementing, and optimizing business applications, with a focus on:  
+## Objective
+
+Long-time IT Specialist and Business Applications Analyst with experience in ERP and CRM systems (SAP, ServiceNow, Salesforce), workflow automation, and data-driven reporting. Passionate about Cybersecurity and AI, leveraging technical expertise and problem-solving skills to tackle complex challenges and deliver meaningful impact. Experienced in analyzing, implementing, and optimizing business applications, with a focus on:  
 
 - ERP and CRM systems (SAP, SericeNow, Salesforce)  
 - IT process improvement and workflow automation  
 - Business requirements gathering and gap analysis  
 - Reporting and data visualization 
-
-## Objective
-
-My 20+ year journey in Technology has led me to develop a passion for Cybersecurity, and AI. I am now eager to transition into this field. The experience I have gained in my career, has givin me a strong foundation that translates well in this field.
 
 ## Skills
 
