@@ -59,3 +59,9 @@ My 20+ year journey in Technology has led me to develop a passion for Cybersecur
 ## Projects
 - <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [I keep up to date daily listening to the Cyberwire Daily podcast](https://www.youtube.com/watch?v=SRL9k4pA99U&list=PL7JW9Q3mhniRi171QwPwnWzLEsB8pkGLJ)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
