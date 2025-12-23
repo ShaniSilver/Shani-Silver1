@@ -63,7 +63,7 @@ Long-time IT Specialist and Business Applications Analyst with experience in ERP
     <img src="https://img.shields.io/badge/Security%2B-CompTIA%20|%20Target%20Jan.%2015th,%202026-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## 📂 Projects
+## <h2>👨‍💻 Cyber Security and Software Development Projects:</h2>
 - 
 - <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
