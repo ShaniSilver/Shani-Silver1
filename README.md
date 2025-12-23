@@ -45,6 +45,7 @@ My 20+ year journey in Technology has led me to develop a passion for Cybersecur
     <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Azure-Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Google-Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys%20Guard-4B275F?&style=for-the-badge&logo=Qualys&logoColor=white" />
 <div>
      
 ## Certifications
