@@ -1,7 +1,12 @@
 # Hello, I'm Shani Silver (nickname: Shawn)
 <a href="https://linkedin.com/in/shanisilver/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a long time IT Specialist and Business Applications Analyst with profound interest in Cyber Security, AI, and a dedication to solving complex problems.
+I am a long time IT Specialist and Business Applications Analyst with profound interest in Cyber Security, AI, and a dedication to solving complex problems. Experienced in analyzing, implementing, and optimizing business applications, with a focus on:  
+
+- ERP and CRM systems (SAP, SericeNow, Salesforce)  
+- IT process improvement and workflow automation  
+- Business requirements gathering and gap analysis  
+- Reporting and data visualization 
 
 ## Objective
 
@@ -56,7 +61,8 @@ My 20+ year journey in Technology has led me to develop a passion for Cybersecur
     <img src="https://img.shields.io/badge/Security%2B-CompTIA%20|%20Target%20Jan.%2015th,%202026-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
+## 📂 Projects
+- 
 - <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
 
